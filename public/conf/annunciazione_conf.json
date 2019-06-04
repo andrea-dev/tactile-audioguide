@@ -1,0 +1,28 @@
+{
+  "name": "Annunciazione",
+  "id": "0000380280",
+  "src": "./images/annunciazione_pic.jpg",
+  "art": "dell' ",
+
+  "subjects": {
+
+    "38": {
+      "desc": [
+        "la Madonna ",
+        "la figura di Maria ",
+        "la sagoma della Madonna "
+      ],
+      "check": 0,
+      "name": "madonna"
+    },
+    "65": {
+      "desc": [
+        "l'Arcangelo",
+        "l'Arcangelo Gabriele",
+        "Gabriele Arcangelo"
+      ],
+      "check": 0,
+      "name": "angel"
+    }
+  }
+}

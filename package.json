@@ -1,0 +1,22 @@
+{
+  "name": "npmmyapp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+      "cy:run": "cypress run",
+    "cypress:open": "cypress open",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "elasticsearch": "^15.2.0",
+    "elasticsearch-browser": "^15.4.1",
+    "express": "^4.16.4",
+    "jquery": "^3.3.1"
+  },
+  "devDependencies": {
+    "cypress": "^3.2.0"
+  }
+}
